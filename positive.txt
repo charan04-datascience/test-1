@@ -3,3 +3,5 @@ if a>0:
   print("a is positive") # to know whether the number is positive
 elif a<0:
    print ("a is negative") # to know whether the number is negative
+else 
+  print(" a is zero") # to know whether the number is zero
