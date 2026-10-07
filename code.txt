@@ -1,3 +1,5 @@
 int a
 if a%2==0:
-print("The number is even")
+   print("The number is even") # to know whether the number is even
+elif a%2!=0:
+   print ("a is odd") # to know whether the number is odd
